@@ -1,7 +1,9 @@
-# 📋 Open Applications 📋
+# [!idk](./LogoFull.svg)
+
+## 📋 Open Applications 📋
 Currently, there are no applications open to the public **yet**. If you are a friend of mine, DM me, and I'll decide over it.
 
-# ❓ FAQ ❓
+## ❓ FAQ ❓
 
 ### ❔ | What in the name of spices is ProjectSpice?
 ❕| ProjectSpice is a DoorDash-type Discord bot, where you can order food digitally and have it come to your (virtual) door. Want some delicious eggs, but you have an allergy against them? Drool and even crave eggs *more* by ordering some using PJS!
