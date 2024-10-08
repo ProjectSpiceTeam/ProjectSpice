@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6579e3f2-92af-42c8-be43-8cd8e6375dd2" alt="ProjectSpice Logo" width="50px" height=auto>
+<img src="https://github.com/user-attachments/assets/6579e3f2-92af-42c8-be43-8cd8e6375dd2" alt="ProjectSpice Logo" width="70px" height=auto> ProjectSpice
 
 
 ## 📋 Open Applications 📋
