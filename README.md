@@ -1,4 +1,5 @@
-# [Alt](https://raw.githubusercontent.com/ProjectSpiceTeam/ProjectSpice/e1394d84f5ec11fb98cd88e26bf23f2c77a78b4b/assets/LogoFull.svg)
+![LogoFull](https://github.com/user-attachments/assets/6579e3f2-92af-42c8-be43-8cd8e6375dd2)# ![Uploading LogoFull.svg…]()
+
 
 ## 📋 Open Applications 📋
 Currently, there are no applications open to the public **yet**. If you are a friend of mine, DM me, and I'll decide over it.
