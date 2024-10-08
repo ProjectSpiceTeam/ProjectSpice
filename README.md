@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>ProjectSpice</h1>
 
 
-## 📋 Open Applications 📋
+                                                       ## 📋 Open Applications 📋
 Currently, there are no applications open to the public **yet**. If you are a friend of mine, DM me, and I'll decide over it.
 
 ## ❓ FAQ ❓
