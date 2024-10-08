@@ -1,8 +1,8 @@
-<img src="https://github.com/user-attachments/assets/6579e3f2-92af-42c8-be43-8cd8e6375dd2" alt="ProjectSpice Logo" width="100px" height=auto>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>ProjectSpice</h1>
+<img src="https://github.com/user-attachments/assets/2d5a7def-8d35-42b4-bed4-4519cf4f8131" alt="ProjectSpice Logo Colored (Text + Extended Verision)" width="100px" height=auto>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-&nbsp; ## 📋 Open Applications 📋
+## 📋 Open Applications 📋
 Currently, there are no applications open to the public **yet**. If you are a friend of mine, DM me, and I'll decide over it.
 
 ## ❓ FAQ ❓
