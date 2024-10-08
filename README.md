@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/6579e3f2-92af-42c8-be43-8cd8e6375dd2" alt="ProjectSpice Logo" width="100px" height=auto>
-<h1 text-align="center">ProjectSpice</h1>
+<h1 text-align=center>ProjectSpice</h1>
 
 
 ## 📋 Open Applications 📋
