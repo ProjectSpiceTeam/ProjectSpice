@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/2d5a7def-8d35-42b4-bed4-4519cf4f8131" alt="ProjectSpice Logo Colored (Text + Extended Verision)" width="300px" height=auto>
+<img src="https://github.com/user-attachments/assets/2d5a7def-8d35-42b4-bed4-4519cf4f8131" alt="ProjectSpice Logo Colored (Text + Extended Verision)" width="400px" height=auto>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
