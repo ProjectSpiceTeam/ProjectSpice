@@ -4,4 +4,4 @@ ProjectSpice is a DoorDash-type Discord bot, where you can order food digitally 
 # About ProjectSpice's Team
 
 
-© 2024, ProjectSpice. All Rights Reserved.
+© 2024, ProjectSpice™. All Rights Reserved.
