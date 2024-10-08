@@ -1,4 +1,4 @@
-# [!idk](./LogoFull.svg)
+# [Alt](./LogoFull.svg)
 
 ## 📋 Open Applications 📋
 Currently, there are no applications open to the public **yet**. If you are a friend of mine, DM me, and I'll decide over it.
